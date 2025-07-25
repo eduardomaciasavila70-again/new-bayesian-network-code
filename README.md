@@ -1,5 +1,6 @@
 # new-bayesian-network-code
 algoritmo que describe uso de nuevo algoritmo para calcular propagacion de evidencia en redes bayesianas
+
 In this Python program, the goal is to generate a Bayesian network and solve it using PyAgrum libraries. Afterwards, the instructions are coded using our own method in order to compare the results. The results from both methods should be the same since both are exact methods.
 It is acknowledged that there are several possible sources of error:
 Error in the mathematical formulation, which has been addressed by reviewing the mathematical proofs.
